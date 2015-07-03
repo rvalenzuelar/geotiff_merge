@@ -1,4 +1,5 @@
-#
+#!/home/rvalenzuela/miniconda/bin/python
+
 # Extends a geotiff DTM file with flat terrain (e.g. ocean)
 # (inspired in http://www.gdal.org/gdal_tutorial.html)
 #
